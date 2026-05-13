@@ -1,4 +1,4 @@
-# Agregacja Lingwistyczna Danych ATP Tour (2015-2020)
+# Podsumowania lingwistyczne relacyjnej bazy danych ATP Tour (2015-2020)
 
 ## Opis Projektu
 Celem zadania jest stworzenie aplikacji w technologii Java (JDK LTS), której główną funkcjonalnością jest lingwistyczna agregacja zawartości zbioru danych dotyczącego meczów tenisa rozgrywanych podczas ATP Tour w latach 2015–2020. 
@@ -18,7 +18,7 @@ Aplikacja generuje i analizuje podsumowania lingwistyczne (wykorzystując 10 zmi
 
 ---
 
-# Linguistic Aggregation of ATP Tour Data (2015-2020)
+# Linguistic Summaries of the ATP Tour Relational Database (2015-2020)
 
 ## Project Overview
 The objective of this project is to develop a Java application (JDK LTS) focused on the linguistic aggregation of a dataset containing ATP Tour tennis matches played between 2015 and 2020.
